@@ -1,0 +1,11 @@
+cliente_id,segmento,canal_preferido,data_cadastro
+1,grande_empresa,telefone,2026-07-16
+2,pessoa_fisica,email,2026-01-08
+3,pessoa_fisica,chat,2026-03-26
+4,pessoa_fisica,telefone,2026-03-10
+5,grande_empresa,telefone,2026-08-15
+6,grande_empresa,presencial,2026-07-28
+7,pessoa_fisica,telefone,2026-10-02
+8,pessoa_fisica,chat,2026-01-27
+9,pessoa_fisica,telefone,2026-05-10
+10,grande_empresa,chat,2026-01-10
